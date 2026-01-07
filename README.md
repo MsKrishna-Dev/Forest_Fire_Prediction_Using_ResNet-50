@@ -5,11 +5,11 @@ The work is based on the research paper titled **“Forest Fire Prediction throu
 
 ## Dataset
 The dataset consists of numerical remote sensing indicators related to vegetation health, temperature, and fire-affected area.  
-It is placed in the `data/` directory.
+It is placed in the `WildFires_DataSet` file.
 
 ## Project Structure
 ```
-├── WildFires_DataSet.csv
+├── WildFires_DataSet
 ├── notebook.ipynb
 ├── requirements.txt
 ├── .gitignore
