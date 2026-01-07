@@ -35,3 +35,12 @@ It is placed in the `WildFires_DataSet` file.
 ## Notes
 - This repository is intended for academic and research purposes.
 - The dataset used is publicly available and included for reference.
+
+## Publication
+
+The project is based on the research paper:
+
+*"Forest Fire Prediction through Deep Learning using ResNet-50 Model"*, published in  
+Grenze International Journal of Engineering and Technology (January Issue, Scopus Indexed).  
+
+[Read the paper here](https://surl.lt/cfddmv)
